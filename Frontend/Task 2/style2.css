@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: aqua;
+}
+body{
+    background-color: antiquewhite;
+}
+.task{
+    background-color: white;
+    width: 1000px;
+    padding-left: 100px;
+    border-radius: 20px;
+    height: 150px;
+    
+}
+h2{
+    color: blueviolet;
+}
+.task1{
+    background-color: white;
+    width: 1000px;
+    padding-left: 100px;
+    border-radius: 20px;
+    height: 80px;
+}
+.pa{
+padding-top: 35px;
+}
